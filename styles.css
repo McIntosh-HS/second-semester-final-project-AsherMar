@@ -1,0 +1,43 @@
+body {
+    background-color: purple;
+}
+
+main {
+    background-color: gold;
+}
+
+nav {
+    background-color:  black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    background-color: gold;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a:hover {
+    background-color: purple;
+}
+
+li a {
+    display: block;
+    color: gold;
+    text-align: justify;
+    padding: 21px 21px;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    width: 30px;
+    height: 30px;
+}
